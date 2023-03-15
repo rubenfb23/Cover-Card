@@ -3,7 +3,7 @@ remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: 'Rubén Fernández Boullón'
-description: 'Bachelor's Degree Student in Computer Science Engineering'
+description: "Bachelor's Degree Student in Computer Science Engineering"
 
 # Images
 avatar: 'avatar.jpg'
