@@ -3,7 +3,7 @@ remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: 'Rubén Fernández Boullón'
-description: 'Software Engineer'
+description: 'Software Engineer Student'
 
 # Images
 avatar: 'avatar.jpg'
@@ -31,11 +31,11 @@ github-user: 'rubenfb23'
 #tumblr: 'mytumblr'
 #weibo: 'myweibo'
 #vk: 'myvk'
-blog_url: 'https://www.uvigomotorsport.com/'
+#blog_url: 'https://www.uvigomotorsport.com/'
 email: 'rubenfernandezboullon@gmail.com'
 #messenger: 'myfbchat'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [linkedin, github-user, email]
 
 # Yaml manifest of supported social links
 # Requirements:
