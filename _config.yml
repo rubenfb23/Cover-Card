@@ -18,7 +18,7 @@ linkedin: 'ruben-fernandez-boullon'
 #instagram: 'myinsta'
 #pinterest: 'mypinterest'
 #youtube: 'myyoutube'
-github-user: 'rubenfb23'
+github: 'rubenfb23'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -35,7 +35,7 @@ github-user: 'rubenfb23'
 email: 'rubenfernandezboullon@gmail.com'
 #messenger: 'myfbchat'
 
-social-links-order: [linkedin, github-user, email]
+social-links-order: [linkedin, github, email]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -85,7 +85,7 @@ social-links:
   - name: pinterest
     url-pattern: pinterest.com/__USERNAME__
 
-  - name: github-user
+  - name: github
     url-pattern: github.com/__USERNAME__
     icon-class: fab fa-2x fa-github
 
